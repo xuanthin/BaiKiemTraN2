@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">appMySQL</string>
+    <string name="retrofit_login">Retrofit Login</string>
+    <string name="welcome">Welcome</string>
+    <string name="logout">Logout</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="guest_register_here">Guest? Register here</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="register">Register</string>
+    <string name="retrofit_register">Retrofit Register</string>
+</resources>
